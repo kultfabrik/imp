@@ -179,6 +179,19 @@ const Game = {
   Save.store();
   this.banner('DEBUG: +1 BRB', '#7bd23a');
 }
+if (
+  Input.was('debugInv') &&
+  (this.state === 'play' || this.state === 'hub') &&
+  !UI.top &&
+  !this.transition &&
+  !MarxOracle.open
+) {
+  const p = this.level && this.level.player;
+  if (p && !p.dying) {
+    p.inv = Math.max(p.inv, 8 * 60);
+    this.banner('DEBUG: Unsterblich für 8s', '#7fd6ff');
+  }
+}
       if (Input.was('marx') && !this.cut && !L.player.dying) { this.askMarx(null, false); return; }
       if (this.state === 'play' && this.tryShop()) return;
       Poll.update();

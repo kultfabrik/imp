@@ -48,7 +48,7 @@ const Input = {
   map: {
     left: ['ArrowLeft', 'KeyA'], right: ['ArrowRight', 'KeyD'], up: ['ArrowUp', 'KeyW'], down: ['ArrowDown', 'KeyS'],
     jump: ['Space', 'KeyW', 'ArrowUp'], run: ['ShiftLeft', 'ShiftRight', 'KeyK'], perk: ['KeyE', 'KeyJ'],
-    marx: ['KeyH'], pause: ['Escape', 'KeyP'], ok: ['Enter', 'Space', 'KeyE'], back: ['Escape', 'Backspace'], mute: ['KeyM'], debugLife: ['KeyB'],
+    marx: ['KeyH'], pause: ['Escape', 'KeyP'], ok: ['Enter', 'Space', 'KeyE'], back: ['Escape', 'Backspace'], mute: ['KeyM'], debugLife: ['KeyB'], debugInv: ['KeyV'],
     one: ['Digit1'], two: ['Digit2'], three: ['Digit3'], four: ['Digit4'], five: ['Digit5'], six: ['Digit6']
   },
   init() {
@@ -4656,6 +4656,19 @@ const Game = {
   Save.slot.brb = this.brb;
   Save.store();
   this.banner('DEBUG: +1 BRB', '#7bd23a');
+}
+if (
+  Input.was('debugInv') &&
+  (this.state === 'play' || this.state === 'hub') &&
+  !UI.top &&
+  !this.transition &&
+  !MarxOracle.open
+) {
+  const p = this.level && this.level.player;
+  if (p && !p.dying) {
+    p.inv = Math.max(p.inv, 8 * 60);
+    this.banner('DEBUG: Unsterblich für 8s', '#7fd6ff');
+  }
 }
       if (Input.was('marx') && !this.cut && !L.player.dying) { this.askMarx(null, false); return; }
       if (this.state === 'play' && this.tryShop()) return;
