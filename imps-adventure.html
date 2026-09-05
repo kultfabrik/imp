@@ -48,7 +48,7 @@ const Input = {
   map: {
     left: ['ArrowLeft', 'KeyA'], right: ['ArrowRight', 'KeyD'], up: ['ArrowUp', 'KeyW'], down: ['ArrowDown', 'KeyS'],
     jump: ['Space', 'KeyW', 'ArrowUp'], run: ['ShiftLeft', 'ShiftRight', 'KeyK'], perk: ['KeyE', 'KeyJ'],
-    marx: ['KeyH'], pause: ['Escape', 'KeyP'], ok: ['Enter', 'Space', 'KeyE'], back: ['Escape', 'Backspace'], mute: ['KeyM'],
+    marx: ['KeyH'], pause: ['Escape', 'KeyP'], ok: ['Enter', 'Space', 'KeyE'], back: ['Escape', 'Backspace'], mute: ['KeyM'], debugLife: ['KeyB'],
     one: ['Digit1'], two: ['Digit2'], three: ['Digit3'], four: ['Digit4'], five: ['Digit5'], six: ['Digit6']
   },
   init() {
@@ -4109,7 +4109,7 @@ const Poll = {
   drawPanel(g, x0, y) {
     const w = CHATW - 6; const tot = Math.max(1, this.a + this.b); const pa = this.a / tot, pb = this.b / tot;
     g.fillStyle = '#1f1f23'; g.fillRect(x0 + 3, y, w, 46); Font.draw(g, this.active ? 'CHAT ENTSCHEIDET' : 'ERGEBNIS', x0 + CHATW / 2, y + 2, '#bf94ff', { align: 'center' });
-    const bar = (yy, label, frac, win, key) => { Font.draw(g, key + ' ' + label.slice(0, 12), x0 + 5, yy, win ? '#ffd700' : '#efeff1'); g.fillStyle = '#0e0e10'; g.fillRect(x0 + 5, yy + 8, w - 4, 4); g.fillStyle = win ? '#ffd700' : '#9146ff'; g.fillRect(x0 + 5, yy + 8, (w - 4) * frac, 4); Font.draw(g, Math.round(frac * 100) + '%', x0 + w - 1, yy, '#8a8a96', { align: 'right' }); };
+    const bar = (yy, label, frac, win, key) => { const short = label.split(':')[0].slice(0, 9); Font.draw(g, key + ' ' + short, x0 + 5, yy, win ? '#ffd700' : '#efeff1'); g.fillStyle = '#0e0e10'; g.fillRect(x0 + 5, yy + 8, w - 4, 4); g.fillStyle = win ? '#ffd700' : '#9146ff'; g.fillRect(x0 + 5, yy + 8, (w - 4) * frac, 4); Font.draw(g, Math.round(frac * 100) + '%', x0 + w - 1, yy, '#8a8a96', { align: 'right' }); };
     bar(y + 11, this.def.A, pa, this.winner === 'A', 'A'); bar(y + 26, this.def.B, pb, this.winner === 'B', 'B');
     if (this.active) Font.draw(g, this.t > 30 ? Math.ceil((this.t - 30) / 60) + 's' + (Save.opt.vote && !this.vote ? ' ←/→' : '') : 'Auswertung...', x0 + CHATW / 2, y + 39, '#8a8a96', { align: 'center' });
     else Font.draw(g, this.winner + ' gewinnt!', x0 + CHATW / 2, y + 39, '#ffd700', { align: 'center' });
@@ -4651,6 +4651,12 @@ const Game = {
       if (UI.top) { return; }
       const L = this.level; if (!L || !L.room) return;
       if (Input.was('pause') && !this.cut) { UI.open(PauseMenu, true); return; }
+      if (Input.was('debugLife')) {
+  this.addBRB(1);
+  Save.slot.brb = this.brb;
+  Save.store();
+  this.banner('DEBUG: +1 BRB', '#7bd23a');
+}
       if (Input.was('marx') && !this.cut && !L.player.dying) { this.askMarx(null, false); return; }
       if (this.state === 'play' && this.tryShop()) return;
       Poll.update();
