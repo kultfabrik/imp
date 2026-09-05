@@ -173,6 +173,12 @@ const Game = {
       if (UI.top) { return; }
       const L = this.level; if (!L || !L.room) return;
       if (Input.was('pause') && !this.cut) { UI.open(PauseMenu, true); return; }
+      if (Input.was('debugLife')) {
+  this.addBRB(1);
+  Save.slot.brb = this.brb;
+  Save.store();
+  this.banner('DEBUG: +1 BRB', '#7bd23a');
+}
       if (Input.was('marx') && !this.cut && !L.player.dying) { this.askMarx(null, false); return; }
       if (this.state === 'play' && this.tryShop()) return;
       Poll.update();

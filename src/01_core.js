@@ -31,7 +31,7 @@ const Input = {
   map: {
     left: ['ArrowLeft', 'KeyA'], right: ['ArrowRight', 'KeyD'], up: ['ArrowUp', 'KeyW'], down: ['ArrowDown', 'KeyS'],
     jump: ['Space', 'KeyW', 'ArrowUp'], run: ['ShiftLeft', 'ShiftRight', 'KeyK'], perk: ['KeyE', 'KeyJ'],
-    marx: ['KeyH'], pause: ['Escape', 'KeyP'], ok: ['Enter', 'Space', 'KeyE'], back: ['Escape', 'Backspace'], mute: ['KeyM'],
+    marx: ['KeyH'], pause: ['Escape', 'KeyP'], ok: ['Enter', 'Space', 'KeyE'], back: ['Escape', 'Backspace'], mute: ['KeyM'], debugLife: ['KeyB'],
     one: ['Digit1'], two: ['Digit2'], three: ['Digit3'], four: ['Digit4'], five: ['Digit5'], six: ['Digit6']
   },
   init() {
