@@ -9,7 +9,7 @@
 
 imp ist umgezogen. Die Wohnung ist top, das Internet ist… nicht da. Der Anbieter **NIXNET AG** („Ihr Anschluss ist uns wichtig.") schickt Servicetechniker, die statt Glasfaser zu verlegen die halbe Stadt zerlegen. Ohne Stream brechen die Einnahmen weg, Werbepartner springen ab, Abos laufen aus – der Kanal ist in Gefahr.
 
-Also macht imp das, was er am wenigsten kann: Er steht **pünktlich** auf, lässt den **Papierkram** liegen (das macht Ludwig) und folgt zu Fuß dem **falsch verlegten gelben Glasfaserkabel** quer durch Kiez, Amt, fränkische Provinz, Kanalisation, Honigwald, Wien, YouTube-Tower und NIXNET-Zentrale bis in die Glasfaser-Unterwelt – um den Stecker am Ende **selbst** einzustöpseln.
+Also macht imp das, was er am wenigsten kann: Er steht **pünktlich** auf, lässt den **Papierkram** liegen (das macht Luigi) und folgt zu Fuß dem **falsch verlegten gelben Glasfaserkabel** quer durch Kiez, Amt, fränkische Provinz, Kanalisation, Honigwald, Wien, YouTube-Tower und NIXNET-Zentrale bis in die Glasfaser-Unterwelt – um den Stecker am Ende **selbst** einzustöpseln.
 
 Unterwegs sammelt er **Twitch-Bits**, **Twitch-Abos** und **Werbepartner**, damit der Kanal überlebt, trifft seinen Doppelgänger **Karl Marx**, seinen besten Freund **Sinan mit scharfem S**, wird von **Drachenlord** überrollt, von **Baba dem Bären** mit Soletti beworfen, weicht **Trump, Merz und Mario Marth** aus – und der Twitch-Chat kommentiert *alles*.
 
@@ -19,21 +19,21 @@ Unterwegs sammelt er **Twitch-Bits**, **Twitch-Abos** und **Werbepartner**, dami
 
 ### 1.1 Prolog (Intro-Cutscene, überspringbar)
 
-1. **Neue Wohnung.** Kartons überall. Ludwig packt aus, imp „koordiniert" (liegt auf dem Sofa). Auf dem Monitor: *„Stream startet um 20:00 Uhr"* – die Uhr zeigt **20:17**. imp: „Passt. Pünktlich wie immer."
-2. **Klick auf „Stream starten"** → *„Keine Internetverbindung."* imp: „…Ludwig?" Ludwig: „Der Techniker kommt zwischen 8 und 18 Uhr." imp: „Es ist 20 Uhr." Ludwig: „Von welchem Tag stand da nicht."
+1. **Neue Wohnung.** Kartons überall. Luigi packt aus, imp „koordiniert" (liegt auf dem Sofa). Auf dem Monitor: *„Stream startet um 20:00 Uhr"* – die Uhr zeigt **20:17**. imp: „Passt. Pünktlich wie immer."
+2. **Klick auf „Stream starten"** → *„Keine Internetverbindung."* imp: „…Luigi?" Luigi: „Der Techniker kommt zwischen 8 und 18 Uhr." imp: „Es ist 20 Uhr." Luigi: „Von welchem Tag stand da nicht."
 3. **Hotline NIXNET:** „Ihre voraussichtliche Wartezeit beträgt: **vier Stunden**. Ihr Anruf ist uns wichtig." (Warteschleifenmusik – das Leitmotiv des Endgegners.)
 4. **Die Techniker kommen doch** (Torben & Kevin): bohren durch die Wand, treffen das Wasserrohr, kappen das Kabel vom Nachbarn, kleben einen Zettel an die Tür („Kunde nicht angetroffen") – während imp direkt daneben steht. „Das war's dann, schönen Tag noch!" Internet: weiterhin keins. Dafür führt ein **gelbes Glasfaserkabel** aus der Wand … nach draußen … um die Ecke … und weiter.
-5. **Ludwig, panisch mit Excel-Tabelle:** „Ohne Stream: Werbepartner weg, Abos laufen aus, Bits null. In zehn Tagen ist der Kanal **offline**." imp (steht auf): „Dann hol ich sie mir eben zurück. Persönlich." Ludwig: „Zu Fuß?!" imp: „Nö. Mit Röhren."
+5. **Luigi, panisch mit Excel-Tabelle:** „Ohne Stream: Werbepartner weg, Abos laufen aus, Bits null. In zehn Tagen ist der Kanal **offline**." imp (steht auf): „Dann hol ich sie mir eben zurück. Persönlich." Luigi: „Zu Fuß?!" imp: „Nö. Mit Röhren."
 6. **Die Marx-Büste im Regal** (imps Doppelgänger, spricht seit dem Umzug): „Proletarier aller Kieze – folgt dem Kabel."
 
 ### 1.2 Roter Faden: „Folge dem Kabel"
 
 - Das **gelbe Kabel** ist in jedem Level als Hintergrundlinie sichtbar und führt immer weiter. Es wurde von NIXNET absurd falsch verlegt – jedes Level ist eine Station dieser Verlegung.
-- Jedes Level endet an einem **Verteilerkasten**, an dem ein **Werbepartner** wartet, der imp einen Vertrag anbietet. imp weigert sich zu unterschreiben (Papierkram!), **Ludwig unterschreibt** für ihn – Running Gag mit immer absurderem Kleingedruckten.
+- Jedes Level endet an einem **Verteilerkasten**, an dem ein **Werbepartner** wartet, der imp einen Vertrag anbietet. imp weigert sich zu unterschreiben (Papierkram!), **Luigi unterschreibt** für ihn – Running Gag mit immer absurderem Kleingedruckten.
 - **Running Gag „Unpünktlich":** Jede Level-Intro-Karte ist ein Twitch-„Starting Soon"-Screen: *„Stream startet um 20:00 – aktuelle Zeit: 20:34 / 21:02 / 23:48 / morgen früh / übermorgen / ‚die Uhr hat aufgegeben'."*
 - **Running Gag „Verplant":** imp kann sich den Namen des Anbieters nicht merken (NIXNET → „Nixnix", „Netznix", „die mit dem Rot").
-- **Running Gag „Rasierer Glattmann":** Ein Rasierklingen-Abo will imp unbedingt sponsern. In jeder zweiten Cutscene. imp hat einen Vollbart. Am Ende sponsert Glattmann *Ludwig*.
-- **Wendepunkt (nach Level 6):** Baba der Bär (besiegt, jetzt Freund) verrät: Das Kabel führt nach **Wien**. imp: „…Nein." Ludwig: „Doch." imp: „Warum immer Wien."
+- **Running Gag „Rasierer Glattmann":** Ein Rasierklingen-Abo will imp unbedingt sponsern. In jeder zweiten Cutscene. imp hat einen Vollbart. Am Ende sponsert Glattmann *Luigi*.
+- **Wendepunkt (nach Level 6):** Baba der Bär (besiegt, jetzt Freund) verrät: Das Kabel führt nach **Wien**. imp: „…Nein." Luigi: „Doch." imp: „Warum immer Wien."
 - **Wendepunkt (nach Level 8):** Der Algorithmus spuckt eine Rechnung aus: NIXNET hat das Kabel nicht falsch verlegt – NIXNET hat es **absichtlich** ins eigene Hauptquartier gelegt, um daraus ein „Premium-Upgrade" zu machen. imp: „Also doch Kapitalismus." Marx: „Sag ich doch seit 1867."
 
 ### 1.3 Finale & Ende
@@ -51,7 +51,7 @@ Unterwegs sammelt er **Twitch-Bits**, **Twitch-Abos** und **Werbepartner**, dami
 | Figur | Aussehen (Pixel-Sprite) | Rolle im Spiel |
 |---|---|---|
 | **imp** | Lange dunkle Haare, Vollbart, schwarzes Shirt mit grünem **„IMPFITS"**-Print (Parodie des Misfits-Logos), Kopfhörer im Power-Zustand. Skins: Batik-Shirt, **Bananenhemd** (mit Hammer & Sichel), Marx-Kostüm | Spielfigur. Läuft, springt, stampft, wirft Kartons und Basketbälle, betritt Röhren, erzählt Witze. |
-| **Ludwig „der Mod"** | Groß, dünn, grüne Kappe mit **„M"** (für *Mod*), grüne Weste, schmaler Schnauzer. | imps Assistent & Moderator. Hält die **Checkpoint-Flaggen**, führt den **Perk-Shop**, unterschreibt jeden Vertrag, kann per **Mod-Ruf** den **Bannhammer** schwingen (Bildschirm-Clear). |
+| **Luigi „der Mod"** | Groß, dünn, grüne Kappe mit **„M"** (für *Mod*), grüne Weste, schmaler Schnauzer. | imps Assistent & Moderator. Hält die **Checkpoint-Flaggen**, führt den **Perk-Shop**, unterschreibt jeden Vertrag, kann per **Mod-Ruf** den **Bannhammer** schwingen (Bildschirm-Clear). |
 | **Karl Marx** | Grauer Rauschebart, Gehrock – imps Doppelgänger, 1:1 gleiche Silhouette. | **Das Orakel.** Als Büste in jedem Level und jederzeit per Taste **H** („Frag Marx") rufbar: kontextabhängige Hinweise, immer mit Klassenkampf-Twist. Im Amt/NIXNET wird imp mit ihm verwechselt (**Marx-Ausweis**, s. Items). |
 | **Sinan mit scharfem S** (Cap: **ẞ**) | Glatze, weißer Hoodie, rote Cap, Sonnenbrille, posiert ständig. | Bester Freund. In Leveln ein **lebendes Trampolin** (springt man auf seinen Bizeps-Pose, katapultiert er imp hoch). Betreibt versteckte **Streetball-Bonusräume**. Sein **Basketball** ist die Fernkampf-Power-up-Form. Im Hub: Trainingsraum. |
 | **Baba der Bär** (ab Level 6 Freund) | Rosa Bären-Overall, Pilotenbrille, Vollbart, Honigtopf, Soletti-Tüte. | Erst Boss, dann Verbündeter: schenkt imp den **Agavendicksaft** (Vollheilung) und den Tipp Richtung Wien. |
@@ -71,7 +71,7 @@ Unterwegs sammelt er **Twitch-Bits**, **Twitch-Abos** und **Werbepartner**, dami
 | **Techniker Kevin** | Trägt Leiter, wirft Kabelbinder. Helm. | wie Torben |
 | **Router-Turm** | Stationär, feuert **Ping-Ringe** (leicht zielsuchend). | Unzerstörbar; **Firewall-Blöcke** stoppen die Ringe. |
 | **Aktenordner** | Fällt von der Decke (Thwomp-Rolle), Stempelgeräusch. | Ausweichen. |
-| **Formular** | Fliegendes Papier, klebt an imp: **Bürokratie-Debuff** (halbe Geschwindigkeit, kein Sprint). | Abschütteln (Sprung-Taste hämmern), Ludwig-Flagge, Perk *Papierkram-Allergie*. |
+| **Formular** | Fliegendes Papier, klebt an imp: **Bürokratie-Debuff** (halbe Geschwindigkeit, kein Sprint). | Abschütteln (Sprung-Taste hämmern), Luigi-Flagge, Perk *Papierkram-Allergie*. |
 | **Sachbearbeiter** | Langsam, unaufhaltsam, murmelt „Nicht zuständig." | Stampfen → er setzt sich, stempelt „ERLEDIGT". Ignoriert imp mit **Marx-Ausweis**. |
 | **Haider** | Kleine Zuschauer-Meute auf dem Schanzenhof, wirft Eier. | Stampfen. |
 | **Wiener Würstchen-Grantler** | Lebende Würstchen mit Sisi-Hut, grantig („Oida."), Sprungattacke. Doppelwitz Wiener/Wiener. | Stampfen. |
@@ -138,7 +138,7 @@ Unterwegs sammelt er **Twitch-Bits**, **Twitch-Abos** und **Werbepartner**, dami
 - **Leben = „BRB"** (*Be Right Back*). Tod = BRB-Screen mit Chat-Reaktion („F", „LUL", „clip it"). Alle BRBs weg = **„Kanal offline"** → Continue am Levelanfang, Bits halbiert.
 - **Zeitlimit = „Stream-Start-Countdown"** (Normal: 8:00 pro Level). Läuft er ab, ist der Stream verpasst (ein BRB). Perk *Unpünktlich* verlängert.
 - **Score = Zuschauer.** Alles, was cool ist (Combos, Abos, Hype-Train), bringt Zuschauer. Am Levelende: **„Peak-Zuschauer"** als Highscore.
-- **Checkpoints:** **Ludwig-Flaggen** (grün, mit M) alle ~90 Sekunden. Ludwig nimmt dort auch anhaftende Formulare ab („Gib her, ich mach das.").
+- **Checkpoints:** **Luigi-Flaggen** (grün, mit M) alle ~90 Sekunden. Luigi nimmt dort auch anhaftende Formulare ab („Gib her, ich mach das.").
 
 ### 3.4 Schwierigkeitsgrade
 
@@ -186,7 +186,7 @@ Unterwegs sammelt er **Twitch-Bits**, **Twitch-Abos** und **Werbepartner**, dami
 | **Karl-Marx-Ausweis** | 20 s: Bürokratie-Gegner (Sachbearbeiter, Vertriebler, Hotline-Bots) ignorieren imp: „Ah, Herr Marx, Sie haben Termin." | – |
 | **Agavendicksaft** (von Baba) | Vollheilung + Headset + 50 Bits. Selten. | – |
 | **Tofu-Block** | Tragbares Wurfobjekt, heilt, wenn man ihn isst (↓ + Aktion). | – |
-| **Bannhammer** (Ludwigs) | Bildschirm-Clear: alle Standardgegner werden „gebannt" (fliegen aus dem Bild). | POW-Block |
+| **Bannhammer** (Luigis) | Bildschirm-Clear: alle Standardgegner werden „gebannt" (fliegen aus dem Bild). | POW-Block |
 | **1-BRB** | Extra-Leben, meist an fiesen Stellen. | 1-Up |
 
 ### 5.1 HOLF-Awards (Pokale mit Kurzzeit-Superkraft, ~10 s)
@@ -204,7 +204,7 @@ Kleine goldene Pokale, die imp beim Einsammeln über den Kopf reckt (Jingle!). V
 
 ## 6. Perks – „Kanal-Upgrades" (dauerhaft, Slot-System)
 
-Perks werden im Hub bei Ludwig gegen Bits gekauft oder in Geheimräumen gefunden. Man **rüstet sie in Slots aus** (1 Slot ab Start, 2. nach Level 3, 3. nach Level 6) – so entstehen individuelle Builds und Wiederspielwert (Speedrun-Build vs. Sammel-Build vs. Safety-Build).
+Perks werden im Hub bei Luigi gegen Bits gekauft oder in Geheimräumen gefunden. Man **rüstet sie in Slots aus** (1 Slot ab Start, 2. nach Level 3, 3. nach Level 6) – so entstehen individuelle Builds und Wiederspielwert (Speedrun-Build vs. Sammel-Build vs. Safety-Build).
 
 | Perk | Typ | Wirkung |
 |---|---|---|
@@ -215,7 +215,7 @@ Perks werden im Hub bei Ludwig gegen Bits gekauft oder in Geheimräumen gefunden
 | **Papierkram-Allergie** | passiv | Formulare können nicht anhaften – imp niest sie weg (Schaden an Gegnern dahinter!). |
 | **Bart-Schutz** | passiv, 10 s Cooldown | Ein Projektil bleibt im Bart hängen und fällt zu Boden. |
 | **Vegan Power** | passiv | Tofu-Würste heilen zusätzlich, Hafermilch gibt +1 Zuschauer-Multiplikator. |
-| **Mod-Ruf** | aktiv, 1×/Level | Ludwig rennt ins Bild und schwingt den **Bannhammer** (Bildschirm-Clear). |
+| **Mod-Ruf** | aktiv, 1×/Level | Luigi rennt ins Bild und schwingt den **Bannhammer** (Bildschirm-Clear). |
 | **Sinan-Sprung** | passiv | +15 % Sprunghöhe; **Dunk** (↓ in der Luft): Ground-Pound, zerbricht Blöcke, erledigt Helmträger. |
 | **Umverteilung** | passiv | Besiegte Gegner droppen doppelt Bits. „Der Mehrwert gehört dem Streamer." |
 | **Späti-Magnet** | passiv | Bits werden aus 3 Tiles Entfernung angezogen. |
@@ -271,7 +271,7 @@ Das Hub ist imps echtes Setup als Pixel-Raum: bunte Gemälde an der Wand (Joker-
 |---|---|
 | **Twitch-Monitor** | **Weltkarte** (Mario-3-Stil): 10 Level-Knoten, verbunden durch das gelbe Kabel von Berlin über Franken und Wien zurück in die Unterwelt. Level anwählbar, sobald frei. Zeigt Abos (3 Herzen) und Bestzeit pro Level. |
 | **YouTube-Monitor** | **VODs** = Cutscenes erneut ansehen, Statistiken, **Trophäenraum** (Abos, HOLF-Sammlung, Bestzeiten). |
-| **Ludwig** | **Perk-Shop** („Bits ausgeben"), Perk-Slots verwalten, Vertragsordner (Story-Fortschritt: unterschriebene Werbepartner). |
+| **Luigi** | **Perk-Shop** („Bits ausgeben"), Perk-Slots verwalten, Vertragsordner (Story-Fortschritt: unterschriebene Werbepartner). |
 | **Sinan** | **Trainingsraum** (alle Moves üben, Dummies) & **Streetball-Highscore**. |
 | **Marx-Büste** | Hinweis zum aktuellen Level, Zitat des Tages. |
 | **Kühlschrank** | Start-Item fürs nächste Level einpacken (Hafermilch / Mate / Basketball, gekauft mit Bits). |
@@ -281,15 +281,15 @@ Das Hub ist imps echtes Setup als Pixel-Raum: bunte Gemälde an der Wand (Joker-
 
 ## 9. Die 10 Level
 
-> Jedes Level: **3 Abschnitte + Finale** (ca. 90 s / 90 s / 60 s / Boss oder Finale 60–90 s), 2 Ludwig-Flaggen, 3 Abos, 1–2 HOLF-Awards, 6–12 Röhren, 1–2 Chat-Polls, 1 Marx-Büste, eine neue Mechanik, ein neuer Gegnertyp, ein Werbepartner. Ziel: ~5 min für Geübte, 8–10 min beim ersten Erkunden.
+> Jedes Level: **3 Abschnitte + Finale** (ca. 90 s / 90 s / 60 s / Boss oder Finale 60–90 s), 2 Luigi-Flaggen, 3 Abos, 1–2 HOLF-Awards, 6–12 Röhren, 1–2 Chat-Polls, 1 Marx-Büste, eine neue Mechanik, ein neuer Gegnertyp, ein Werbepartner. Ziel: ~5 min für Geübte, 8–10 min beim ersten Erkunden.
 
 ### Level 1 — „Umzugskartons" (Die neue Wohnung & das Treppenhaus)
 - **Setting:** Altbauwohnung, Treppenhaus, Hinterhof, Keller. Warmes Abendlicht, Kartonstapel, Möbel als Plattformen.
-- **Story:** Direkt nach dem Prolog. Das Kabel führt aus der Wand ins Treppenhaus. Nachbar grillt auf dem Balkon. Ludwig funkt Tutorial-Tipps („Kartons kann man werfen. Nicht auf mich.").
+- **Story:** Direkt nach dem Prolog. Das Kabel führt aus der Wand ins Treppenhaus. Nachbar grillt auf dem Balkon. Luigi funkt Tutorial-Tipps („Kartons kann man werfen. Nicht auf mich.").
 - **Neu:** Grundsteuerung, Kartons tragen/werfen, erste Röhre (Wäscheschacht), erste Marx-Büste, erstes Abo, erster HOLF (Gold).
 - **Gegner:** Kartonis, Grillmeister, Chat-Troll (Keller).
 - **Poll:** „Keller (Bonus-Bits) vs. Dach (Abkürzung)".
-- **Finale:** Verteilerkasten im Hof, Werbepartner **HAFI**. Cutscene: Vertrag, Ludwig unterschreibt, Glattmann-Rasierer taucht zum ersten Mal auf.
+- **Finale:** Verteilerkasten im Hof, Werbepartner **HAFI**. Cutscene: Vertrag, Luigi unterschreibt, Glattmann-Rasierer taucht zum ersten Mal auf.
 - **Musik:** Fröhliches Umzugs-Thema, Chiptune-Ska.
 
 ### Level 2 — „WLAN-Jagd im Kiez"
@@ -366,7 +366,7 @@ Das Hub ist imps echtes Setup als Pixel-Raum: bunte Gemälde an der Wand (Joker-
 
 ### Level 10 — „Glasfaser-Unterwelt"
 - **Setting:** Tief unter der Stadt, neonblaue Glasfaserstränge, pulsierende Datenströme (Lava-Ersatz), Buffering-Ringe, Lag-Plattformen, Ping-Spikes.
-- **Story:** Alle Mechaniken kommen zusammen. Ludwig, Sinan, Baba und Marx funken Unterstützung. Sinan steht vor der letzten Tür als Trampolin, Baba wirft Agavendicksaft, Ludwig hat den Vertrag für Glasfaser-Gigi schon dabei.
+- **Story:** Alle Mechaniken kommen zusammen. Luigi, Sinan, Baba und Marx funken Unterstützung. Sinan steht vor der letzten Tür als Trampolin, Baba wirft Agavendicksaft, Luigi hat den Vertrag für Glasfaser-Gigi schon dabei.
 - **Neu:** **Mechanik-Remix** (Offline-Zonen + Lag + Honigwände + Riesenrad-Zahnräder), **Ping-Spikes** im Takt, **Stecker tragen** (Finale).
 - **Gegner:** Best-of aller Gegner in gemeinen Kombinationen.
 - **Endboss:** **NIXI 3000 – Die Warteschleife** (Kap. 10).
@@ -401,7 +401,7 @@ Nach 3 Treffern: nimmt die Pilotenbrille ab: „Du bist imp? Ich schau deine Str
 **NIXI 3000 – Die Warteschleife (L10, Endboss):** Riesiges Telefon mit Router-Antennen, Display zeigt Wartezeit.
 Phase 1 „Bitte bleiben Sie dran": Schallwellen der Hold-Musik rollen über den Boden (springen), Wartezeit-Display zählt *hoch*.
 Phase 2 „Drücken Sie die …": Nummern-Buttons 1–6 in der Arena; NIXI sagt eine Nummer an, man muss den richtigen Button stampfen, bevor die Zeit abläuft – falsch = Hotline-Bot-Spawn. 3 richtige = Treffer.
-Phase 3 „Wir verbinden Sie": Techniker-Schwarm bohrt die Arena an, Router-Türme feuern; Ludwig wirft Firewall-Blöcke.
+Phase 3 „Wir verbinden Sie": Techniker-Schwarm bohrt die Arena an, Router-Türme feuern; Luigi wirft Firewall-Blöcke.
 Phase 4 „Sind Sie noch dran?": Der Glasfaser-Stecker fällt vom Kabel – imp muss ihn **tragend** über Lag-Plattformen zur Buchse bringen, während NIXI Ping-Ringe feuert. Stecker rein → „Ihr Anruf wurde beendet." Explosion in Emotes.
 
 ---
@@ -421,8 +421,8 @@ Phase 4 „Sind Sie noch dran?": Der Glasfaser-Stecker fällt vom Kabel – imp 
 
 ### 11.3 UI & Cutscenes
 - **HUD im Stream-Overlay-Look:** oben links `● LIVE` (oder `OFFLINE` in Offline-Zonen) + Zuschauer, daneben Bits, 3 Abo-Herzen, Countdown, BRBs, Perk-Icons, Hype-Train-Leiste; rechts der Chat. Signal-Balken bei Hotspot-Passagen.
-- **Level-Intro** als „Starting Soon"-Karte mit Level-Titel, Uhrzeit-Gag und Ludwigs Tipp.
-- **Cutscenes:** Pixel-Portraits (imp, Ludwig, Marx, Sinan, Baba, Bosse) + Textbox mit Schreibmaschinen-Effekt, überspringbar (Enter hält, Esc überspringt). Etwa 25 Szenen, Lesezeit je 20–40 s.
+- **Level-Intro** als „Starting Soon"-Karte mit Level-Titel, Uhrzeit-Gag und Luigis Tipp.
+- **Cutscenes:** Pixel-Portraits (imp, Luigi, Marx, Sinan, Baba, Bosse) + Textbox mit Schreibmaschinen-Effekt, überspringbar (Enter hält, Esc überspringt). Etwa 25 Szenen, Lesezeit je 20–40 s.
 - **Pause-Menü:** Weiter, Optionen (Lautstärke, Chat an/aus, Screenshake, Tastenbelegung, Schwierigkeit), Frag Marx, Zurück zum Hub.
 - **Speicherstand:** automatisch im Browser (localStorage) – Fortschritt, Abos, Bits, Perks, Bestzeiten, Optionen. 3 Slots.
 
@@ -449,9 +449,9 @@ Phase 4 „Sind Sie noch dran?": Der Glasfaser-Stecker fällt vom Kabel – imp 
 
 ## 14. Beispiel-Dialoge (Tonalität)
 
-> **Ludwig:** „Der Techniker kommt zwischen 8 und 18 Uhr."
-> **imp:** „Ludwig, es ist 20 Uhr."
-> **Ludwig:** „Von welchem Tag stand nicht dabei."
+> **Luigi:** „Der Techniker kommt zwischen 8 und 18 Uhr."
+> **imp:** „Luigi, es ist 20 Uhr."
+> **Luigi:** „Von welchem Tag stand nicht dabei."
 
 > **Marx (Orakel, L5):** „Die Röhren gehören dem Volk. Aber die dritte von links gehört dir. Vertrau mir. Ich hab's im Kapital nachgelesen. Band 4. Den gibt's nicht. Deswegen glaubt's mir keiner."
 
@@ -465,7 +465,7 @@ Phase 4 „Sind Sie noch dran?": Der Glasfaser-Stecker fällt vom Kabel – imp 
 
 > **NIXI 3000:** „Ihr Anruf ist uns wichtig. Bitte bleiben Sie dran." **imp:** „Ich bin seit zehn Leveln dran."
 
-> **Chat, nach dem Abspann:** `impimpimp` `impimpimp` `endlich wieder Dauersatiresendung` `wo ist ludwig` `LUDWIG HAT EINEN RASIERER-DEAL LUL`
+> **Chat, nach dem Abspann:** `impimpimp` `impimpimp` `endlich wieder Dauersatiresendung` `wo ist luigi` `LUIGI HAT EINEN RASIERER-DEAL LUL`
 
 ---
 

@@ -4,7 +4,7 @@
             - Plattform (einseitig)  = Blockplattform  ^ Stacheln  ~ Wasser  ! Datenstrom/Feuer
             & Honigboden  W Honigwand  O Online-Block  f Firewall  $ Demonetarisierung  , ; Deko
             pp/|| grüne Röhre  uu/|| blaue Bonusröhre  oo/|| orange Rückkehr/Story-Röhre  dd hängende Röhre
-            P Start  E Ende  L Ludwig-Flagge  M Marx  S Sinan  b Bit  5 100-Bits  G Gift  1 2 3 Abo  4 Münze
+            P Start  E Ende  L Luigi-Flagge  M Marx  S Sinan  b Bit  5 100-Bits  G Gift  1 2 3 Abo  4 Münze
             * + " ` HOLF gold/silber/bronze/grün  0 BRB-Block   k r a t Roster-Gegner   V Poll  { } Poll-Türen
             y Kabelsalat  T Torben  v Kevin  U Router  A Ordner  F Formular  s Sachbearbeiter  H Haider  i Wiener
             w Wolke  R Sepp  x Sisi  g Warteschleifengeist  e Biene  Z Stock  n Gnom  D Abo-Dieb  l Hotline-Bot

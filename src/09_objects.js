@@ -41,11 +41,11 @@ class Gift extends Entity {
   update() { const p = this.player; if (p && rectHit(this, p)) { this.dead = true; Game.addBits(10); Game.viewers(30); AudioSys.sfx('sub'); popup(this.cx, this.y - 8, 'Gifted Sub! +10', '#ff5ad1'); Chat.react('gift'); burst(this.cx, this.cy, ['#9146ff', '#ff5ad1'], 10, 2); } }
   draw(g) { Sprites.draw(g, 'gift', this.x, this.y + Math.sin(this.anim++ * 0.1) * 1.5); }
 }
-/* ---- Ludwig checkpoint flag ---- */
+/* ---- Luigi checkpoint flag ---- */
 class Checkpoint extends Entity {
   constructor(x, y, idx) { super(x, y - 32, 12, 32); this.type = 'checkpoint'; this.idx = idx; this.used = false; }
-  update() { this.anim++; const p = this.player; if (!this.used && p && !p.dying && rectHit({ x: this.x - 8, y: this.y - 8, w: 28, h: 48 }, p)) { this.used = true; for (const e of this.room.ents) if (e.type === 'checkpoint' && e !== this) e.used = false; Game.setCheckpoint(this); AudioSys.sfx('checkpoint'); popup(this.cx, this.y - 10, 'Checkpoint! Ludwig hält die Stellung', '#7bd23a'); if (p.formular > 0) { p.formular = 0; Game.speech(this, 'Gib her, ich mach das.', 80); } else Game.speech(this, pick(['Weiter geht\'s!', 'Ich hab den Vertrag dabei!', 'Du bist 40 Minuten zu spät.', 'Chat fragt, ob du lebst.']), 80); Chat.react('checkpoint'); } }
-  draw(g) { Sprites.draw(g, 'flag_pole', this.x + 5, this.y); Sprites.draw(g, this.used ? 'flag_green' : 'flag_grey', this.x + 7, this.y + (this.used ? 2 : 14)); if (this.used) Sprites.draw(g, 'ludwig_idle', this.x - 10, this.bottom - 28, false); }
+  update() { this.anim++; const p = this.player; if (!this.used && p && !p.dying && rectHit({ x: this.x - 8, y: this.y - 8, w: 28, h: 48 }, p)) { this.used = true; for (const e of this.room.ents) if (e.type === 'checkpoint' && e !== this) e.used = false; Game.setCheckpoint(this); AudioSys.sfx('checkpoint'); popup(this.cx, this.y - 10, 'Checkpoint! Luigi hält die Stellung', '#7bd23a'); if (p.formular > 0) { p.formular = 0; Game.speech(this, 'Gib her, ich mach das.', 80); } else Game.speech(this, pick(['Weiter geht\'s!', 'Ich hab den Vertrag dabei!', 'Du bist 40 Minuten zu spät.', 'Chat fragt, ob du lebst.']), 80); Chat.react('checkpoint'); } }
+  draw(g) { Sprites.draw(g, 'flag_pole', this.x + 5, this.y); Sprites.draw(g, this.used ? 'flag_green' : 'flag_grey', this.x + 7, this.y + (this.used ? 2 : 14)); if (this.used) Sprites.draw(g, 'luigi_idle', this.x - 10, this.bottom - 28, false); }
 }
 /* ---- Level end: Verteilerkasten + sponsor ---- */
 class LevelEnd extends Entity {
